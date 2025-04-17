@@ -34,6 +34,8 @@ while (i <= mid && j <= high) // step 4d
 }
 while (j <= high) // step 4e
 {
-    B[k] = arr[j]; // step 4e.1
+    B[k] = arr[j]; // step 4e.i
+    j++; // step 4e.ii
+    
 }
 }
