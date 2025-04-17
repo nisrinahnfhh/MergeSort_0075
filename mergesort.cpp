@@ -22,6 +22,7 @@ while (i <= mid && j <= high) // step 4d
 {
     if(arr[i] <= arr[j]){ // step 4.d.i
         B[k] = arr[i]; // step.4.d.i.1
+        i++; // step.4.d.i.2
         }
 }
 }
