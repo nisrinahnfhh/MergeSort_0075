@@ -19,5 +19,8 @@ j = mid + 1; // step 4b
 k = low; // step 4c
 
 while (i <= mid && j <= high) // step 4d
-
+{
+    if(arr[i] <= arr[j]){ // step 4.d.i
+        }
+}
 }
