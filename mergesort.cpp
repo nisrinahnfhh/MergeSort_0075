@@ -30,6 +30,7 @@ while (i <= mid && j <= high) // step 4d
             j++; // step.4.d.i.4
         }
         k++; // step.4.d.ii
-        
+
 }
+while (j <= high) // step 4e
 }
