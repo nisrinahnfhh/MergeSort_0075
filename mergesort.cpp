@@ -24,5 +24,9 @@ while (i <= mid && j <= high) // step 4d
         B[k] = arr[i]; // step.4.d.i.1
         i++; // step.4.d.i.2
         }
+        else 
+        {
+            B[k] = arr[j]; // step.4.d.i.3
+        }
 }
 }
