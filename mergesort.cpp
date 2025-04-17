@@ -17,4 +17,7 @@ int i = low; // step 4a
 int j, k;
 j = mid + 1; // step 4b
 k = low; // step 4c
+
+while (i <= mid && j <= high) // step 4d
+
 }
